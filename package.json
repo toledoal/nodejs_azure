@@ -1,0 +1,28 @@
+{
+  "name": "azurewebapp1",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toledoal/nodejs_azure.git"
+  },
+  "keywords": [
+    "nodejs",
+    "azure",
+    "languages",
+    "npl"
+  ],
+  "author": "Alejandro Toledo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toledoal/nodejs_azure/issues"
+  },
+  "homepage": "https://github.com/toledoal/nodejs_azure#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
