@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/toledoal/nodejs_azure#readme",
   "dependencies": {
+    "create-react-app": "^1.5.2",
     "express": "^4.16.2"
   }
 }
